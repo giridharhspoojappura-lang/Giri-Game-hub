@@ -1,0 +1,118 @@
+body{
+    margin:0;
+    background:#12002b;
+    color:white;
+    font-family:Arial,sans-serif;
+    text-align:center;
+}
+
+.top-bar h1{
+    color:#00e5ff;
+    text-shadow:0 0 20px #00e5ff;
+}
+
+canvas{
+    margin-top:10px;
+    border:4px solid #ff00ff;
+    border-radius:15px;
+    box-shadow:0 0 30px #ff00ff;
+    background:#22004d;
+}
+
+.back-btn{
+    position:fixed;
+    top:20px;
+    left:20px;
+    padding:10px 20px;
+    background:#2a1458;
+    color:white;
+    text-decoration:none;
+    border-radius:12px;
+    box-shadow:0 0 15px #00e5ff;
+}
+
+#score{
+    font-size:32px;
+    color:cyan;
+    text-shadow:0 0 20px cyan;
+}
+
+
+.new-record{
+    animation:
+    recordGlow 1s;
+}
+
+@keyframes recordGlow{
+
+0%{
+box-shadow:
+0 0 20px cyan;
+}
+
+50%{
+box-shadow:
+0 0 60px gold;
+}
+
+100%{
+box-shadow:
+0 0 20px cyan;
+}
+}
+
+
+.game-over{
+    display:none;
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background:#1f003f;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 0 25px #ff00ff;
+}
+
+.game-over button{
+    padding:10px 20px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+#restartBtn,
+#shareBtn{
+
+    background:linear-gradient(
+        90deg,
+        cyan,
+        magenta
+    );
+
+    border:none;
+
+    border-radius:12px;
+
+    color:white;
+
+    padding:10px 20px;
+
+    cursor:pointer;
+
+    box-shadow:
+        0 0 10px cyan,
+        0 0 20px magenta;
+
+    transition:.3s;
+}
+
+#restartBtn:hover,
+#shareBtn:hover{
+
+    transform:scale(1.05);
+
+    box-shadow:
+        0 0 20px cyan,
+        0 0 40px magenta;
+}

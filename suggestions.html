@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Suggestions</title>
+
+    <link rel="stylesheet" href="css\suggestions.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="particles"></div>
+
+    <div class="container">
+
+        <a href="index.html" class="back-btn">
+            ← Back Home
+        </a>
+
+        <h1>💡 Suggest a Game</h1>
+
+        <input
+            type="text"
+            id="name"
+            placeholder="Enter your name">
+
+        <textarea
+            id="suggestion"
+            placeholder="Enter your game suggestion"></textarea>
+
+        <button id="submitBtn">
+Submit Suggestion
+</button>
+
+<div id="successMessage" class="success-message">
+    🎮 Thank you for your suggestion! We will try our best to develop and add it to Giri's Game Hub in future updates.
+</div>
+
+        <h2>
+            Community Suggestions
+            (<span id="count">0</span>)
+        </h2>
+
+        <div id="suggestionList"></div>
+
+    </div>
+
+    <script type="module" src="jss/suggestions.js"></script>
+
+</body>
+
+</html>

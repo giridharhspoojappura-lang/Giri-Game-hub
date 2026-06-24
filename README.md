@@ -92,14 +92,26 @@ Play classic arcade games directly in your browser with score tracking, AI oppon
 
 ---
 
-# 🚀 Upcoming Games
+## 🚀 Current Release
 
-* 😂 Mallu Meme Run
-* 🏎️ Racing Game
-* 🔢 Sudoku
-* 🧠 Quiz Challenge
-* 🃏 Card Games
+### V1.0 Features
 
+- ✅ Snake
+- ✅ Flappy Bird
+- ✅ 2048
+- ✅ Tic Tac Toe AI
+- ✅ Memory Match
+- ✅ Best Score Tracking
+- ✅ Share Score Cards
+- ✅ Mobile Support
+
+### Planned for V2.0
+
+- 🔄 Mallu Meme Run
+- 🔄 Racing Game
+- 🔄 Sudoku
+- 🔄 Achievements System
+- 🔄 Global Leaderboard
 ---
 
 # 🎯 Why This Project?

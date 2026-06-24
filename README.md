@@ -1,6 +1,8 @@
 # 🎮 Giri's Game Hub
+### Version 1.0 🚀
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Games](https://img.shields.io/badge/Games-5-blue)
+![Games](https://img.shields.io/badge/Games-5-orange)
 ![Platform](https://img.shields.io/badge/Platform-Web-orange)
 ![Made With](https://img.shields.io/badge/Made%20With-JavaScript-yellow)
 <div align="center">

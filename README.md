@@ -43,51 +43,29 @@ Play classic arcade games directly in your browser with score tracking, AI oppon
 
 ## 🏠 Home Page
 
-> Add screenshot here
-
-```md
-![Home Page](screenshots/home.png)
-```
-
----
+![Home Page](Screenshots/home.png)
 
 ## 🐍 Snake
 
-> Add screenshot here
-
-```md
-![Snake](screenshots/snake.png)
-```
-
----
+![Snake](Screenshots/snake.png)
 
 ## 🐦 Flappy Bird
 
 > Add screenshot here
 
-```md
-![Flappy Bird](screenshots/flappybird.png)
-```
-
----
+![Flappy Bird](Screenshots/flappy.png)
 
 ## 🧩 2048
 
 > Add screenshot here
 
-```md
-![2048](screenshots/2048.png)
-```
+![2048](Screenshots/2048.png)
 
 ---
 
 ## 🎯 Tic Tac Toe AI
 
-> Add screenshot here
-
-```md
-![Tic Tac Toe](screenshots/tictactoe.png)
-```
+![Tic Tac Toe](Screenshots/tictactoe.png)
 
 ---
 
@@ -95,9 +73,7 @@ Play classic arcade games directly in your browser with score tracking, AI oppon
 
 > Add screenshot here
 
-```md
-![Memory Match](screenshots/memorymatch.png)
-```
+![Memory Match](Screenshots/memory.png)
 
 ---
 

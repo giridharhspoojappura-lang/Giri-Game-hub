@@ -51,13 +51,12 @@ Play classic arcade games directly in your browser with score tracking, AI oppon
 
 ## 🐦 Flappy Bird
 
-> Add screenshot here
 
 ![Flappy Bird](Screenshots/flappy.png)
 
 ## 🧩 2048
 
-> Add screenshot here
+
 
 ![2048](Screenshots/2048.png)
 
@@ -71,7 +70,7 @@ Play classic arcade games directly in your browser with score tracking, AI oppon
 
 ## 🧠 Memory Match
 
-> Add screenshot here
+
 
 ![Memory Match](Screenshots/memory.png)
 
